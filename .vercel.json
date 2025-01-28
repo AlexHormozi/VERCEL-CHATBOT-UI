@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/chat", "destination": "https://python-chatbot-searcher.onrender.com/chat" }]
+}
